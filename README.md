@@ -3,7 +3,7 @@
 Este proyecto es un componente interactivo sencillo desarrollado en Vue 3 que permite configurar la apariencia de una caja de texto cambiando su color de fondo, color del texto, radio del borde, estilo de fuente, tamaño del texto y aplicando opacidad. Utiliza el sistema reactivo de Vue y enlaces con v-model para actualizar dinámicamente el componente en tiempo real.
 
 # Demo
-Puedes ver una demo en vivo en el siguiente enlace: [Demo]((https://template-rendering.netlify.app/))
+Puedes ver una demo en vivo en el siguiente enlace: [Demo](https://template-rendering.netlify.app/)
 
 ## Tabla de Contenidos
 - Instalación
